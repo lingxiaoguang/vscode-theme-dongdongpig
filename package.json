@@ -1,0 +1,33 @@
+{
+    "name": "dongdongpig-vscode",
+    "displayName": "vscode-theme-dongdongpig",
+    "description": "a cute pig and colorful theme",
+    "version": "0.6.2",
+    "author": "lingxiaoguang",
+    "publisher": "lingxiaoguang",
+    "icon": "icon.png",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/lingxiaoguang/dongdongpig"
+    },
+    "engines": {
+        "vscode": "^1.33.0"
+    },
+    "keywords": [
+        "pig",
+        "theme",
+        "vscode"
+    ],
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "dongdong pig",
+                "uiTheme": "vs-dark",
+                "path": "./themes/dongdongpig-color-theme.json"
+            }
+        ]
+    }
+}
