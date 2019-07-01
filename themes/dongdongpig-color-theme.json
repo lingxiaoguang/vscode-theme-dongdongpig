@@ -93,7 +93,7 @@
     "editorWidget.border": "#ffffff22",
     "editorWidget.resizeBorder": "#ffffff44",
     "editorSuggestWidget.highlightForeground": "#f97e72",
-    "editorSuggestWidget.selectedBackground": "#ffffff36",
+    "editorSuggestWidget.selectedBackground": "#FAC7BA",
     "peekView.border": "#34294f66",
     "peekViewEditor.background": "#005671",
     "peekViewEditor.matchHighlightBackground": "#34294f59",
