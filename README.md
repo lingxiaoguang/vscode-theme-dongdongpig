@@ -25,6 +25,10 @@ When enabled, the effect is as follows:
 
 ## Installation
 
+> Note: Be sure to install it step by step, otherwise it may not look good.
+
+
+
 1. Install [custom-css-and-js-loader](https://marketplace.visualstudio.com/items?itemName=be5invis.vscode-custom-css) Plugin
 
 2. Enable [custom-css-and-js-loader](https://marketplace.visualstudio.com/items?itemName=be5invis.vscode-custom-css) Plugin:
