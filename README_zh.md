@@ -1,5 +1,5 @@
 
-# Dongdong pig - VS Code theme
+# Dongdong pig 
 
  [English Version](./README.md) / [中文版本](./README_zh.md) 
 
